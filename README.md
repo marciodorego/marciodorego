@@ -14,7 +14,7 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/marciodorego)](https://github.com/marciodorego)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/marcio-do-rego-2809b5101)](linkedin.com/in/marcio-do-rego-2809b5101)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/marcio-do-rego-2809b5101)](https://linkedin.com/in/marcio-do-rego-2809b5101)
 
 - Thanks for visiting.
 
